@@ -1,6 +1,6 @@
 # How to run Bke Sharing Rental Dashboard ✨
 
-## Download proyek_analisis_data.ipynb
+## Download notebook.ipynb
 1. Download this notebook
 2. You can run it on Jupyter Notebook or Google Colab to see
     - Data gathering
@@ -11,14 +11,13 @@
     - Conclusion
 3. Download days.csv and hours.csv
 
-## Download dashboardbikesharing.py
-1. Download this project
+## Download dashboard folder
+1. Download this folder which contains `dashboardbikesharing.py`, `days.cv`, and `hours.csv`
 2. Open your code editor
 3. Open this project
-4. Note: days.csv, hours.csv, and dashboardbikesharing.py must in the same folder
-5. Install streamlit, pandas, numpy, matplotlib, seaborn, streamlit babel using `pip install` in your terminal
-6. In your terminal, write `streamlit run dashboardbikesharing.py`
-7. You find web app that shows Bike Sharing Rental Dashboard
+4. Install streamlit, pandas, numpy, matplotlib, seaborn, streamlit babel using `pip install` in your terminal
+5. In your terminal, write `streamlit run dashboardbikesharing.py`
+6. You find web app that shows Bike Sharing Rental Dashboard
 
 
 
