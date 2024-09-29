@@ -9,7 +9,6 @@
     - Exploratory Data Analysis
     - Visualization & Explanatory Analysis
     - Conclusion
-3. Download days.csv and hours.csv
 
 ## Download dashboard folder
 1. Download this folder which contains `dashboardbikesharing.py`, `days.cv`, and `hours.csv`
